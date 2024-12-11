@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ExpertApplication<expert>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.finder.expert.ExpertApplication",
+            "projectName": "expert",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
